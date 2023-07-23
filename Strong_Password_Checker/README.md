@@ -30,8 +30,3 @@ Alternatively, run the script in an integrated development environment (IDE) lik
 
 - After entering the password, the program will display "Strong password" if it meets all the criteria.
 - If the password fails to meet any of the requirements, it will show "Weak password."
-
-## Note
-
-The Strong Password Checker offers a basic assessment of password strength and should not be solely relied upon for critical systems. Consider implementing additional security measures and using external libraries or tools for password management.
-Encourage users to create unique, randomly generated passwords and avoid reusing passwords across multiple accounts for maximum security.
