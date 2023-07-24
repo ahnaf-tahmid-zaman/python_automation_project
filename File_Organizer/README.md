@@ -16,11 +16,11 @@ python app.py
 
 - The program begins by importing two Python modules, **os** and **shutil**, which provide functionalities to interact with the operating system and perform file operations.
 
-- The main functionality is encapsulated within the **organize_files()** function, which takes a single argument, **directory_path**. This function will sort and organize the files within the specified directory.
+- The main functionality is encapsulated within the `organize_files()` function, which takes a single argument, **directory_path**. This function will sort and organize the files within the specified directory.
 
-- The first step inside the **organize_files()** function is to convert the provided **directory_path** into an absolute path using `os.path.abspath()`. This ensures that the program works correctly even if a relative path is given.
+- The first step inside the `organize_files()` function is to convert the provided **directory_path** into an absolute path using `os.path.abspath()`. This ensures that the program works correctly even if a relative path is given.
 
-- Next, the program initializes an empty dictionary called **file_types**. This dictionary will serve as a data structure to store the file types as keys and a list of filenames for each type as values.
+* Next, the program initializes an empty dictionary called **file_types**. This dictionary will serve as a data structure to store the file types as keys and a list of filenames for each type as values.
 
 - The program then obtains a list of all files and directories present in the specified **directory_path** using `os.listdir()`. It iterates through each file in the list and extracts its file extension. The extracted file types are used to group files with similar extensions together.
 
