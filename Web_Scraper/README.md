@@ -33,7 +33,7 @@ app.py
 
 ## Configuration
 
-You can modify the URL in the `scrape_graphics_cards_data()` function inside the `graphics_card_scraper.py` file to scrape data from a different website or adjust the parameters as needed.
+You can modify the URL in the `scrape_graphics_cards_data()` function inside the `app.py` file to scrape data from a different website or adjust the parameters as needed.
 
 ## Output
 
