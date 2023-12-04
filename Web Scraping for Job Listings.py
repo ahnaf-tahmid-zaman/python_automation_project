@@ -20,5 +20,5 @@ def job_scraper(url):
 
         print(f'Company name: {company_name}; Job title: {job_title}')
 
-url_to_scrape = "https://jobs.bdjobs.com/jobsearch.asp?fcatId=8&icatId="
+url_to_scrape = "https://example.com"
 job_scraper(url_to_scrape)
