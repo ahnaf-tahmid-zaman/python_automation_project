@@ -40,3 +40,12 @@ Note
 
 - Only files with valid extensions will be considered during the organization process. Directories or files without extensions will be ignored.
 - The program assumes that you have proper read and write permissions for the provided directory.
+## Author
+**Ahnaf Tahmid Zaman**
+
+<a href="https://www.linkedin.com/in/ahnaf-tahmid-zaman/">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0" alt="Linkedin" width="67px">
+</a>
+<a href="https://github.com/AHNAF14924">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0" alt="GitHub" width="100px">
+</a>

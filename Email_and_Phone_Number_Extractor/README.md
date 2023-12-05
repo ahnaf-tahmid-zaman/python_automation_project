@@ -79,3 +79,12 @@ The script starts its execution within the if `if __name__ == "__main__":` block
 ## Conclusion
 
 With the "**Email and Phone Number Extractor**" script, you can quickly and efficiently extract email addresses and phone numbers from text files and store them in a structured manner for further use or analysis.
+## Author
+**Ahnaf Tahmid Zaman**
+
+<a href="https://www.linkedin.com/in/ahnaf-tahmid-zaman/">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0" alt="Linkedin" width="67px">
+</a>
+<a href="https://github.com/AHNAF14924">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0" alt="GitHub" width="100px">
+</a>

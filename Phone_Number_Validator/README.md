@@ -50,3 +50,12 @@ By studying this script, users can learn the following concepts:
 - Creating regular expression patterns to validate phone numbers or other specific formats.
 - Utilizing the `re.match()` function to check if a string matches a given regular expression pattern.
 - Implementing file input/output (I/O) operations in Python to read and process data from external files.
+## Author
+**Ahnaf Tahmid Zaman**
+
+<a href="https://www.linkedin.com/in/ahnaf-tahmid-zaman/">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0" alt="Linkedin" width="67px">
+</a>
+<a href="https://github.com/AHNAF14924">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0" alt="GitHub" width="100px">
+</a>

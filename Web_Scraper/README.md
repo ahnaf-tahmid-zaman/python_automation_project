@@ -42,3 +42,12 @@ The program will generate an Excel file `Graphics Card.xlsx` containing the scra
 ## Disclaimer
 
 This web scraper is provided for educational and informational purposes only. Please be respectful of the website's terms of service and scraping policies. Always obtain proper authorization before scraping any website, and use the scraper responsibly and ethically.
+## Author
+**Ahnaf Tahmid Zaman**
+
+<a href="https://www.linkedin.com/in/ahnaf-tahmid-zaman/">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0" alt="Linkedin" width="67px">
+</a>
+<a href="https://github.com/AHNAF14924">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0" alt="GitHub" width="100px">
+</a>

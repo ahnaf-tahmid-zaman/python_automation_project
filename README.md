@@ -16,10 +16,12 @@ The repository is organized into different directories, each containing automati
 
 Feel free to explore the projects in any order you prefer. Some projects may build upon concepts covered in earlier ones, while others can be standalone examples of specific automation tasks.
 
-## About the Author
+## Author
+**Ahnaf Tahmid Zaman**
 
-Hello! I'm Ahnaf, and I'm passionate about Python and automation. This repository is a reflection of my journey as I explore the world of automation using Python. I believe that automation can significantly boost productivity and creativity in various fields.
-
-Connect with me through this repository, and let's share our knowledge and experiences to grow together as Python automation enthusiasts.
-
-Happy automating!
+<a href="https://www.linkedin.com/in/ahnaf-tahmid-zaman/">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0" alt="Linkedin" width="67px">
+</a>
+<a href="https://github.com/AHNAF14924">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0" alt="GitHub" width="100px">
+</a>
