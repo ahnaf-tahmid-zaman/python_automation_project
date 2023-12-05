@@ -25,6 +25,12 @@ Make sure to customize the script according to your needs
 # Author
 **Ahnaf Tahmid Zaman**
 
-[![Linkedin](https://www.dropbox.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0)](https://www.linkedin.com/in/ahnaf-tahmid-zaman/)
-[![Github](https://www.dropbox.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0)](https://github.com/AHNAF14924)
+<a href="https://www.linkedin.com/in/ahnaf-tahmid-zaman/">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/6wwu1stsm3hki3vsxl5c0/linkedin.png?rlkey=4nfdo2u3tmoaxo9xwkxh6t5to&dl=0" alt="Linkedin" width="67px">
+</a>
+<a href="https://github.com/AHNAF14924">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/bys8mwgtmsjobu6uk0d15/GitHub-Symbol-2149346605.png?rlkey=memfqto1ygr91gja8t3cpwwbx&dl=0" alt="GitHub" width="100px">
+</a>
+
+
 
